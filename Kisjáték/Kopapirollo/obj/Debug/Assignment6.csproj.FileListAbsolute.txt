@@ -1,0 +1,81 @@
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\MainWindow.baml
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\App.baml
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\App.g.cs
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.g.resources
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\Users\Zahid\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\App.baml
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\MainWindow.g.cs
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\App.g.cs
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\MainWindow.baml
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.g.resources
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+G:\Course\Programming-Software_Developoment\Assignments\Assignment_6\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\App.baml
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\App.g.cs
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\MainWindow.baml
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.g.resources
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\Zahid\Desktop\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\Zahid\temp\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Zahid\temp\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Zahid\temp\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\temp\Assignment6\obj\Debug\App.baml
+C:\Users\Zahid\temp\Assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\Zahid\temp\Assignment6\obj\Debug\App.g.cs
+C:\Users\Zahid\temp\Assignment6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\Users\Zahid\temp\Assignment6\obj\Debug\MainWindow.baml
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.g.resources
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\Zahid\temp\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\morva\Desktop\Kisjáték\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\morva\Desktop\Kisjáték\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\morva\Desktop\Kisjáték\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\App.baml
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.g.resources
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\morva\Desktop\Kisjáték\Assignment6\obj\Debug\Assignment6.pdb

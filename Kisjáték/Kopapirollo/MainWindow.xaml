@@ -1,0 +1,76 @@
+﻿<Window x:Class="Kopapirollo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Kopapirollo"
+        Title="Kő || Papír || Olló" Height="650" Width="910" FontFamily="Verdana" ResizeMode="NoResize" Icon="23936-200.png">
+    <Window.Resources>
+        <local:ValueToVisibilityConverter x:Key="Converter"></local:ValueToVisibilityConverter>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="53449fa87702af80374c45b87080c639.jpg"/>
+    </Window.Background>
+    <Grid Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="348"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="348"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="427"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.RowSpan="2"  Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Content="GY" FontWeight="Bold" Foreground="White"/>
+        <Label Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Left" VerticalAlignment="top" Style="{StaticResource Score Board}" Content="{Binding Path=HumanWinsCount}" Background="Black"></Label>
+        <Label Grid.Row="0" Grid.RowSpan="2"  Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Content="D" FontWeight="Bold" Foreground="White"/>
+        <Label Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Center" VerticalAlignment="top" Style="{StaticResource Score Board}" Content="{Binding Path=TiesCount}" Background="Black"></Label>
+        <Label Grid.Row="0" Grid.RowSpan="2"  Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="24" Content="GY" FontWeight="Bold" Foreground="White"/>
+        <Label Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Right" VerticalAlignment="top" Style="{StaticResource Score Board}" Content="{Binding Path=ComputerWinsCount}" Background="Black"></Label>
+        <Label Grid.Row="0" Grid.Column="0"  HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" ToolTip="This is you." FontWeight="Bold" Content="Játékos" Background="{x:Null}" Foreground="White" Margin="98,7,137,5" />
+        <Label Grid.Row="0" Grid.Column="2"  HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Content="Számítógép" Foreground="White" Margin="114,6,66,6" Height="39"/>
+        <Border BorderThickness="5" Grid.Row="1" Grid.Column="2" Margin="79,53,16,96">
+            <Image HorizontalAlignment="Left" Source="{Binding Path=ComputerImageUrl}" Grid.Row="1" Grid.Column="2" VerticalAlignment="Top" />
+        </Border>
+        <Border BorderThickness="5"  Grid.Row="1" Grid.Column="0" Margin="36,53,59,96">
+            <Image HorizontalAlignment="Left"  Source="{Binding Path=HumanImageUrl}" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" />
+        </Border>
+        <Label Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" Style="{StaticResource Label Text}" Content="{Binding Path=HumanLabel}" Visibility="{Binding HumanLabel, Converter={StaticResource Converter}}" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="1" Grid.Column="2" VerticalAlignment="Top" Style="{StaticResource Label Text}" Content="{Binding Path=ComputerLabel}" Visibility="{Binding ComputerLabel, Converter={StaticResource Converter}}" HorizontalAlignment="Center"></Label>
+
+        <Button Content="" Grid.Column="2" Name="Restart" Click="Restart_Click" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Top" Width="97" Height="72" Margin="0,19,10,0" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Flat_restart_icon.svg.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" Name="RockButton" Click="RockButton_Click" HorizontalAlignment="Left" Margin="10,18,0,0" Grid.Row="2" VerticalAlignment="Top" Width="101" RenderTransformOrigin="-0.027,0.211" Height="72" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="4d40dbef4879e329e9e9309ca3320470.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" Name="PaperButton" Click="PaperButton_Click" HorizontalAlignment="Left" Margin="153,18,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100" Height="72" Foreground="{x:Null}" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="paper-155953_960_720.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" Name="ScissorButton" Click="ScissorButton_Click" HorizontalAlignment="Left" Margin="285,13,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100" Height="82" Foreground="{x:Null}" BorderBrush="{x:Null}" Grid.ColumnSpan="2">
+            <Button.Background>
+                <ImageBrush ImageSource="ollo_fortuna_kereskedohaz.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Kő" HorizontalAlignment="Left" Height="37" Margin="36,95,0,-31" Grid.Row="2" VerticalAlignment="Top" Width="62" Foreground="White" FontSize="20"/>
+        <Label Content="Papír" HorizontalAlignment="Left" Height="37" Margin="169,95,0,-31" Grid.Row="2" VerticalAlignment="Top" Width="62" Foreground="White" FontSize="20"/>
+        <Label Content="Olló" HorizontalAlignment="Left" Height="37" Margin="317,95,0,-31" Grid.Row="2" VerticalAlignment="Top" Width="62" Foreground="White" FontSize="20" Grid.ColumnSpan="2"/>
+        <Label Content="Újra" HorizontalAlignment="Left" Height="37" Margin="263,96,0,-32" Grid.Row="2" VerticalAlignment="Top" Width="62" Foreground="White" FontSize="20" Grid.Column="2"/>
+        <Label x:Name="korszam" Content="Kör: 1/10" Grid.Column="1" HorizontalAlignment="Left" Height="70" Margin="29,100,0,0" Grid.Row="1" VerticalAlignment="Top" Width="162" FontSize="24" FontWeight="Bold" Foreground="White"/>
+        <Label Content="Következő kör" HorizontalAlignment="Left" Height="37" Margin="58,95,0,-31" Grid.Row="2" VerticalAlignment="Top" Width="161" Foreground="White" FontSize="20" Grid.Column="2"/>
+        <Button Content="Button" Grid.Column="2" HorizontalAlignment="Left" Height="91" Margin="69,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="122" Click="Button_Click" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="6910029_preview.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

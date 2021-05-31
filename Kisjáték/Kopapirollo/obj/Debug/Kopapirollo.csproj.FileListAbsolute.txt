@@ -1,0 +1,17 @@
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\bin\Debug\Kopapirollo.exe.config
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\bin\Debug\Kopapirollo.exe
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\bin\Debug\Kopapirollo.pdb
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\App.baml
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo_MarkupCompile.cache
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo_MarkupCompile.lref
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.g.resources
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.Properties.Resources.resources
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.exe
+C:\Users\morva\Desktop\Kisjáték\Kopapirollo\obj\Debug\Kopapirollo.pdb
